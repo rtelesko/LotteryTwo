@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="NewTextStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/deeppink</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:text">sans-serif</item>
+    </style>
+
 </resources>
